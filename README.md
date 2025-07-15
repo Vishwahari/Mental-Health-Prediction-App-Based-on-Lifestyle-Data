@@ -54,7 +54,7 @@ Mental-Health-Prediction-App-Based-on-Lifestyle-Data/
 
 ---
 
-## 📥 How to Run the App Locally
+## 📅 How to Run the App Locally
 
 ### 1️⃣ Clone the Repository
 
@@ -101,7 +101,7 @@ streamlit run app.py
 
 ---
 
-## 🧪 Inputs Considered
+## 🦪 Inputs Considered
 
 * Age: 18–80 years
 * Gender: Male, Female, Other
@@ -125,6 +125,22 @@ streamlit run app.py
 * 💡 Recommendations: e.g., "Aim for 7-8 hours of sleep per night to improve mental wellness."
 * 📊 Visualizations: Scatter (Sleep vs. Stress), Box (Screen Time vs. Stress), Bar (Exercise vs. Stress), Feature Importance
 * ℹ️ Interesting Fact: e.g., "XX% of individuals with high stress sleep less than 6 hours per night."
+
+---
+
+## 🞼 App Screenshots
+
+### 🔮 Prediction Output
+
+<p align="center">
+  <img src="images/screenshot_prediction.png" alt="Prediction Output Screenshot" width="800"/>
+</p>
+
+### 📊 Feature Importance & Interesting Insight
+
+<p align="center">
+  <img src="images/screenshot_feature_importance.png" alt="Feature Importance Screenshot" width="800"/>
+</p>
 
 ---
 
@@ -177,7 +193,7 @@ If you like this project, please ⭐ star the repository and share it with other
 
 ```bash
 git add README.md
-git commit -m "📝 Updated README.md"
+git commit -m "📸 Added output screenshots to README"
 git push origin main
 ```
 
